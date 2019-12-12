@@ -96,7 +96,7 @@ def bt_click_reini():
     entPeso.delete(0, END)
 
 
-    lbResulN.config(text="-", bg="gray")
+    lbResulN.config(text=" - -", bg="gray")
 
 
     lbResulSit.config(text="Informe os dados", bg="gray")
